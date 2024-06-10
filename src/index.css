@@ -29,7 +29,7 @@ a {
 }
 
 .nav_bar .nav_items:hover {
-  border-bottom: 3px solid yellow;
+  border-bottom: 3px solid rgb(202, 202, 23);
 }
 
 
@@ -120,7 +120,7 @@ a {
 /*** Skills ****/
 
 .skills {
-  width: 900px;
+  width: 95%;
 }
 
 .skills .items {
